@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<item>
-    <version>6.2.0.0</version>
-    <url>https://github.com/Ninjin89/yugihotrainer/raw/master/Release.zip</url>
-	 <changelog>https://github.com/Seigetzu/yugihotrainer/blob/master/changelog.txt</changelog>
-    <mandatory>false</mandatory>
-</item>
